@@ -23,8 +23,10 @@
 2. **Update packages**:
    ```bash
    pkg update && pkg upgrade
-   pkg install python python-pip git
-   pkg install tar  
+   pkg install python python-pip git wget
+   pkg install tar
+   pip install --uograde pip
+   pip install chess stockfish
    ```
 
 3. **Download & Setup**:
