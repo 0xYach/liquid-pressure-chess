@@ -1,2 +1,2 @@
 # liquid-pressure-chess
-Android chess engine with human-like gameplay: Liquid Pressure style, 10-min clock awareness, anti-detection patterns. Built for Termux with intelligent move selection and natural imperfections.
+Liquid Pressure Chess - Android assistant that plays with human-like elegance. Features adaptive time management, anti-detection patterns, and a unique water-flow playing style.
