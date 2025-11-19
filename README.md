@@ -55,4 +55,30 @@
    ```bash
    python3 chess_liquid_pressure.py
    ```
-   
+
+
+**🎯 Playing Tips**
+
+1. Input moves in UCI format (e.g., e2e4, g1f3)
+2. Monitor time pressure indicators
+3. Follow liquid pressure phases for strategic guidance
+4. Use recommended moves as learning opportunities
+
+**⚠️ Disclaimer**
+
+This tool is intended for:
+
+· Chess improvement and analysis
+· Understanding engine thought processes
+· Educational purposes
+
+Use responsibly and in accordance with platform rules. The authors are not responsible for account penalties from inappropriate use.
+
+**🤝 Contributing**
+
+Contributions welcome! Please feel free to submit pull requests or open issues for:
+
+· Bug fixes
+· New features
+· Improved anti-detection patterns
+· Additional playing styles
